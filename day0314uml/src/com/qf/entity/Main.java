@@ -1,6 +1,7 @@
 package com.qf.entity;
 
 public class Main {
+	public   int bb;
 	public static void main(String[] args) {
 		System.out.println("svn");
 	}
