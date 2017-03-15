@@ -13,4 +13,7 @@ public class Main {
 	   
 	   sum = x + y ;
 	} 
+	public static void sun(){
+		
+	}
 }
